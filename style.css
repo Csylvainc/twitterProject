@@ -1,0 +1,10 @@
+body{
+    margin: 0 10vw;
+}
+
+.btn{
+    border-radius: 30px;
+    width: 80%;
+    height: 35px;
+    background-color: white;
+}
